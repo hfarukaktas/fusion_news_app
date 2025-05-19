@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCqzGS_OP7dwWtTf_DjFGwQOzGkYG3Seak',
+    apiKey: 'private',
     appId: '1:108747311063:android:190454900af54155142d92',
     messagingSenderId: '108747311063',
     projectId: 'fusion-news-app',
@@ -58,12 +58,11 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAGAUPD2GEweUD3wQatRgMUfm6psDlbv8I',
+    apiKey: 'private',
     appId: '1:108747311063:ios:0300da69697d6ad8142d92',
     messagingSenderId: '108747311063',
     projectId: 'fusion-news-app',
     storageBucket: 'fusion-news-app.firebasestorage.app',
     iosBundleId: 'com.example.fusionNewsApp',
   );
-
 }
