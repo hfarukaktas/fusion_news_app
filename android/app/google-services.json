@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "108747311063",
+    "project_id": "fusion-news-app",
+    "storage_bucket": "fusion-news-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108747311063:android:190454900af54155142d92",
+        "android_client_info": {
+          "package_name": "com.example.fusion_news_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "private"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
